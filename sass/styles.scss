@@ -48,3 +48,18 @@ body {
         }
     }
 }
+
+.about-us {
+    display: flex;
+    padding: 20px 0;
+
+    .about-us-image {
+        display: flex;
+        justify-content: center;
+        padding: 20px 0;
+    }
+
+    .about-us-text {
+        padding: 20px 0;
+    }
+}

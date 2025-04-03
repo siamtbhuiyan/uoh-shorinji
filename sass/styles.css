@@ -94,4 +94,17 @@ body {
 }
 .container-custom .nav-custom .nav-item {
   font-size: 17px;
+}
+
+.about-us {
+  display: flex;
+  padding: 20px 0;
+}
+.about-us .about-us-image {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.about-us .about-us-text {
+  padding: 20px 0;
 }/*# sourceMappingURL=styles.css.map */
